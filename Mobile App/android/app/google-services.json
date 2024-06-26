@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506199705329",
+    "project_id": "farmassistor",
+    "storage_bucket": "farmassistor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506199705329:android:e1d9d4c1af16cc7ed2cb50",
+        "android_client_info": {
+          "package_name": "com.example.farmassistor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPQAeCBmiiM4u9D6WYyrRERhVqb9dc8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506199705329:android:911723d4651b4a8bd2cb50",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPQAeCBmiiM4u9D6WYyrRERhVqb9dc8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
