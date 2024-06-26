@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if (kIsWeb){
-    await Firebase.initializeApp(options: FirebaseOptions(apiKey: "AIzaSyBU7ejJbl_aCI4YOJSW1MOG-7eq_uKJAB8", appId: "1:506199705329:web:cdf754ca3fc4a9f5d2cb50", messagingSenderId: "506199705329", projectId: "farmassistor"));
+    await Firebase.initializeApp(options: FirebaseOptions(apiKey: "API key", appId: "1:506199705329:web:cdf754ca3fc4a9f5d2cb50", messagingSenderId: "506199705329", projectId: "farmassistor"));
   //runApp(const MyApp());
   }
   
